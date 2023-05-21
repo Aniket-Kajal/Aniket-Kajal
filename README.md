@@ -6,7 +6,7 @@
   
 ## About
 	
-Hello, I am a final year B.tech (CSE) student, learning full stack web development and creating projects, mainly using frontend like JavaScript, Bootstrap, HTML & CSS for now. 
+Hello, I am a final year B.tech (CSE) student, learning full stack Web development and creating projects, mainly using frontend like JavaScript, Bootstrap, HTML & CSS for now. 
 	 I am completely passionate about frontend development, problem solving and sometimes trying new languages.
 	
 -------------------

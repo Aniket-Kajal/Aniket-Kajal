@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Aniket Kajal <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hi, I'm Aniket Kajal 👋<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 font-size="20" align="center">Currently a student at Graphic Era Hill University, Dehradun</h3>
 
 <div align="center">

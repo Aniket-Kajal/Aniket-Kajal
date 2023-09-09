@@ -38,15 +38,15 @@ Hello, I am a graduate of Graphic Era Hill University, Dehradun, learning full s
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-     
+    
 
 <p align="center">
-      <a href="https://nextjs.org/" target="_blank">
+      <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
 
- <a href="https://getbootstrap.com" target="_blank">
+ <a href=" https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="Next"/>
   </a>

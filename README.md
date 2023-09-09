@@ -46,7 +46,7 @@ Hello, I am a graduate of Graphic Era Hill University, Dehradun, learning full s
       alt="bootstrap"/>
   </a>
 
- <a href=" https://nextjs.org/" target="_blank">
+ <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       alt="Next"/>
   </a>
